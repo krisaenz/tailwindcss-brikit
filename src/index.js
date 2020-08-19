@@ -1,5 +1,3 @@
-// This is where the plugin functionality goes
-
 module.exports = function () {
   return function ({ addComponents }) {
     const buttons = {
