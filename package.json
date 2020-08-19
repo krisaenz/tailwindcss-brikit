@@ -1,6 +1,6 @@
 {
   "name": "@tailwindcss/brikit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Tailwind CSS plugin that utilizes Brikit's beautiful defaults.",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tailwindcss/typography": "^0.2.0",
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.32",
     "react": "^16.13.1",
