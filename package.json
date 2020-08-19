@@ -1,5 +1,5 @@
 {
-  "name": "@tailwindcss/brikit",
+  "name": "@krisaenz/brikit-tailwind",
   "version": "1.0.1",
   "description": "A Tailwind CSS plugin that utilizes Brikit's beautiful defaults.",
   "main": "src/index.js",
