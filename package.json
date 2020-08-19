@@ -3,14 +3,15 @@
   "version": "1.0.1",
   "description": "A Tailwind CSS plugin that utilizes Brikit's beautiful defaults.",
   "main": "src/index.js",
+  "license": "ISC",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:css": "tailwind build src/style.css -o dist/output.css"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
+    "tailwindcss": "^1.7.0"
+  },
+  "devDependencies": {
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.32",
     "react": "^16.13.1",
